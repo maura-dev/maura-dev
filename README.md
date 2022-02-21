@@ -20,7 +20,7 @@
 
 ### Projects:
 - 🌱 Contributed to i2talk chat app during TIIDELab fellowship. See demo [here](https://i2talk-chat-app.netlify.app/)
-- 🌱 Contributed to ZC main and ZC company sales prospect during HNGi8. Demo is currently unavailable
+- 🌱 Contributed to ZC main and ZC company sales prospect during HNGi8. See demo [here](https://staging.zuri.chat/)
 - 🌱 Resource edge task as a standardization test under Learnable '21. See demo [here](https://r-edge.netlify.app/)
 - 🌱 Decipher app, a choice maker app. See demo [here](https://decipher-choice-maker.netlify.app/)
 - 🌱 A simple portfolio site with HTML and CSS. See demo [here](https://maura-dev.github.io/learnable-portfolio-task/)
