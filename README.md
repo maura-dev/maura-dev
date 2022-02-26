@@ -3,7 +3,7 @@
 <img align="center" src="D3127909-0C82-4542-A62B-7528E055C5DF.png" height="auto" width="100%"/>
 
 <h1 align="center">Hi there👋, I am Maureen Anyanwu</h1>
-<h3 align="center">A passionate frontend developer 👩‍💻 from Nigeria 🇳🇬  and wannabe technical writer</h3>
+<h3 align="center">A passionate frontend developer 👩‍💻 from Nigeria 🇳🇬  and wannabe technical writer who is currently learning about Web3 </h3>
 
 <p align="left"> <a href="https://twitter.com/anyanwu_maureen" target="blank"><img src="https://img.shields.io/twitter/follow/anyanwu_maureen?logo=twitter&style=for-the-badge" alt="anyanwu_maureen" /></a> </p>
 
